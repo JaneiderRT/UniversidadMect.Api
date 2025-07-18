@@ -1,0 +1,6 @@
+@UniversidadMect.Api_HostAddress = http://localhost:5037
+
+GET {{UniversidadMect.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
